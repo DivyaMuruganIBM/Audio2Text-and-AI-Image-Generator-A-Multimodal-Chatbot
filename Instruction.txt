@@ -1,0 +1,5 @@
+To run ChatGPT Web App project :
+ Run the following commands:
+    npm install
+    node index.js
+App found in :http://localhost:3001/
