@@ -41,7 +41,6 @@ HTML, CSS, JavaScript (or React for more interactive UIs)
 ## **How to Run the Project Locally**
 
 - **Clone the repository:**
-
 [git clone https://github.com/your-username/Audio2Text-AI-Image-Generator.git](https://github.com/DivyaMuruganIBM/Audio2Text-and-AI-Image-Generator-A-Multimodal-Chatbot.git)
 - **Install dependencies:**
 Navigate to the project directory and run the following command to install all the necessary dependencies:
