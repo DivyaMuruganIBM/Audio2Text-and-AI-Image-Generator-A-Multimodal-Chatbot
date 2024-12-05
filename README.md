@@ -1,4 +1,4 @@
-                                                                            ** **Audio2Text and AI Image Generator: A Multimodal Chatbot****
+ ** **Audio2Text and AI Image Generator: A Multimodal Chatbot****
 
 
 **Project Description**
